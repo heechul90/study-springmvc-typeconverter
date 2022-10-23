@@ -26,4 +26,6 @@
     - 스프링이 제공하는 기본 포맷터
     - 정리
 
-[다음으로](https://github.com/heechul90/study-springmvc-upload)
+[[이전으로]](https://github.com/heechul90/study-springmvc-exception) [[다음으로]](https://github.com/heechul90/study-springmvc-upload)
+
+[[복습하기/적용하기]](https://github.com/heechul90/project-hellcoding)
